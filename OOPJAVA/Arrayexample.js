@@ -1,0 +1,5 @@
+packagebasics;
+
+public class Arrayexample{
+
+}
